@@ -1,0 +1,10 @@
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Symmetric\Symmetric\bin\Debug\Symmetric.exe.config
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Symmetric\Symmetric\bin\Debug\Symmetric.exe
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Symmetric\Symmetric\bin\Debug\Symmetric.pdb
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Symmetric\Symmetric\obj\Debug\Symmetric.csproj.AssemblyReference.cache
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Symmetric\Symmetric\obj\Debug\Symmetric.Form1.resources
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Symmetric\Symmetric\obj\Debug\Symmetric.Properties.Resources.resources
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Symmetric\Symmetric\obj\Debug\Symmetric.csproj.GenerateResource.cache
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Symmetric\Symmetric\obj\Debug\Symmetric.csproj.CoreCompileInputs.cache
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Symmetric\Symmetric\obj\Debug\Symmetric.exe
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Symmetric\Symmetric\obj\Debug\Symmetric.pdb
